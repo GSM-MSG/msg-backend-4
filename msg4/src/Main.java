@@ -22,8 +22,6 @@ public class Main {
 
         // 5. adult의 나이를 25에서 28로 수정해주시고 다시한번 자기소개를 출력해주세요.
 
-        // 6. child2를 생성해주세요 name과 age는 child와 동일합니다.
-        // child와 child2를 비교해서 true가 출력되도록 해주세요!
 
     }
 }
